@@ -29,7 +29,7 @@ function dec(n) {
 }
 var n = "2"
 
-function makeInt(n) {
-  parseInt(n, 10)
+function makeInt(n, 10) {
+  parseInt(n)
   return n
 }
