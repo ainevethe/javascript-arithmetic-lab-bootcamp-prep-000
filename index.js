@@ -20,3 +20,10 @@ function inc(n) {
 n++
 return n
 }
+
+var n = 5
+
+function dec(n) {
+  n--
+  return n
+}
