@@ -1,3 +1,4 @@
-function add(2 + 3)
-  return add
-  
+function add() {
+  1+80
+  console.log(add)
+}
