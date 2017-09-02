@@ -1,6 +1,3 @@
-
-function add(x, y) {
-var x = 5
-var y = 6
-console.log(x + y)
+function add(n1, n2) {
+  return n1 + n2
 }
