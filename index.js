@@ -15,5 +15,6 @@ function divide(n1, n2) {
 }
 
 function inc(n) {
-return n+=
+n+=
+return n
 }
